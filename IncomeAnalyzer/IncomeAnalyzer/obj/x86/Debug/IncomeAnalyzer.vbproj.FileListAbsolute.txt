@@ -1,0 +1,10 @@
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\bin\Debug\IncomeAnalyzer.exe
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\bin\Debug\IncomeAnalyzer.pdb
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\bin\Debug\IncomeAnalyzer.xml
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\WindowsApplication1.AboutBox.resources
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\IncomeAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\IncomeAnalyzer.exe
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\IncomeAnalyzer.xml
+C:\Users\Kritz\Desktop\IncomeAnalyzer\IncomeAnalyzer\IncomeAnalyzer\obj\x86\Debug\IncomeAnalyzer.pdb
